@@ -12,4 +12,4 @@ A proposta é criar uma **tabela de preços responsiva** para planos de serviço
 - Estilização para destacar planos
 
 ## ✨ Autor
-Projeto desenvolvido por **Gabrieli Gardini Fernandes**, estudante do **PROA**.
+Projeto desenvolvido por Gabrieli Gardini Fernandes, estudante do PROA.
